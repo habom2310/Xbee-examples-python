@@ -1,6 +1,8 @@
 # Xbee-examples-python
 Some examples of playing with Xbee
 
+![Alt text](https://github.com/habom2310/Xbee-examples-python/blob/master/result.PNG)
+
 # Abstract
 - Internet-of-thing or IOT is becoming essential in the modern life. It's fun and enthusiastic to programme something that can automatically do something without interferences of human.
 - Xbee devices provide a comprehensive way to control devices from family scale to industrial scale. It's an easy-to-use wireless communication module that can be programmed or controlled with external microcontrollers. I myself find it interesting and enthusiastic when playing with this XBee devices. Therefore I want to share my joyness to all of you through this very simple example.
